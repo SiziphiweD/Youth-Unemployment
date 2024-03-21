@@ -6,7 +6,7 @@ Hack Masters is a multidisciplinary team committed to addressing the challenge o
 
 ### Team Members:
 
-- **Jové Mars** - AWS Cloud Services
+- **Mpho Lemao** - AWS Cloud Services
 - **Nontsikelelo Cekiso** - Data Science
 - **Thabiso Glen Semano** - Data Analysis
 - **Naledi Mpopo** - Salesforce Administration
