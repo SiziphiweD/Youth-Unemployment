@@ -35,11 +35,11 @@ Our approach involves a collaborative effort across various disciplines:
 ## Timeline (Revised for March 16th Deadline)
 
 - March 11th: (Today): Begin Data Pre-Processing
-- March 12th: Complete Data Pre-Processing & Begin Statistical Analysis
-- March 13th: Complete Statistical Analysis & Begin AWS Cloud Services Setup
-- March 14th: Complete AWS Cloud Services Setup & Begin Salesforce Integration
-- March 15th: Complete Salesforce Integration & Begin Software Development
-- March 16th: Complete Software Development, Model Deployment & Testing, Finalize Documentation
+- March 14th: Complete Data Pre-Processing & Begin Statistical Analysis
+- March 17th: Complete Statistical Analysis & Begin AWS Cloud Services Setup
+- March 19th: Complete AWS Cloud Services Setup & Begin Salesforce Integration
+- March 21st: Complete Salesforce Integration & Begin Software Development
+- March 22nd: Complete Software Development, Model Deployment & Testing, Finalize Documentation
 
 ## Deliverables
 
