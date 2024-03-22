@@ -104,13 +104,4 @@
     }
   });
 
-  function handleSearch(event) {
-    if (event.key === 'Enter') {
-      const searchText = document.getElementById('searchText').value;
-      // Perform search using the searchText value
-      console.log('Searching for:', searchText);
-      // You can replace the console.log with your search logic
-    }
-  }
-  
   
