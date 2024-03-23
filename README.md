@@ -6,7 +6,7 @@ Hack Masters is a multidisciplinary team committed to addressing the challenge o
 
 ### Team Members:
 
-- **Mpho Lemao** - AWS Cloud Services
+- **Ntabejane Mpho Lemao** - AWS Cloud Services
 - **Nontsikelelo Cekiso** - Data Science
 - **Thabiso Glen Semano** - Data Analysis
 - **Naledi Mpopo** - Salesforce Administration
@@ -19,7 +19,7 @@ Our approach involves a collaborative effort across various disciplines:
 
 - **Data Pre-Processing**: Cleaning and preparing the datasets for analysis. (Thabiso Glen Semano & Nontsikelelo Cekiso)
 - **Statistical Analysis**: Extracting meaningful insights from the datasets. (Nontsikelelo Cekiso)
-- **AWS Cloud Services**: Deploying scalable infrastructure for data storage, processing, and analysis. (Jové Mars)
+- **AWS Cloud Services**: Deploying scalable infrastructure for data storage, processing, and analysis. (Ntabejane Mpho Lemao)
 - **Salesforce Administration**: Integrating relevant data sources and facilitating data management. (Naledi Mpopo)
 - **Software Development**: Implementing forecasting models and predictive algorithms. (Siziphiwe Dlamini & Tebogo Dipale)
 
