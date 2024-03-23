@@ -20,6 +20,9 @@ Our approach involves a collaborative effort across various disciplines:
 - **Data Pre-Processing**: Cleaning and preparing the datasets for analysis. (Thabiso Glen Semano & Nontsikelelo Cekiso)
 - **Statistical Analysis**: Extracting meaningful insights from the datasets. (Nontsikelelo Cekiso)
 - **AWS Cloud Services**: Deploying scalable infrastructure for data storage, processing, and analysis. (Ntabejane Mpho Lemao)
+- **Simplified AWS Architecture**
+- ![Untitled Diagram drawio](https://github.com/SiziphiweD/Youth-Unemployment/assets/123084292/6cb742ae-4013-4b1f-9921-ffa73f98f2f6)
+
 - **Salesforce Administration**: Integrating relevant data sources and facilitating data management. (Naledi Mpopo)
 - **Software Development**: Implementing forecasting models and predictive algorithms. (Siziphiwe Dlamini & Tebogo Dipale)
 
@@ -32,7 +35,7 @@ Our approach involves a collaborative effort across various disciplines:
 - Salesforce (data integration, administration)
 - Git (version control)
 
-## Timeline (Revised for March 16th Deadline)
+## Timeline (Revised for March 22nd Deadline)
 
 - March 11th: (Today): Begin Data Pre-Processing
 - March 14th: Complete Data Pre-Processing & Begin Statistical Analysis
